@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Berserker",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/1.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Monk",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/4.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Bird Warrior",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Beast",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/8.png"
 			}
@@ -101,11 +101,11 @@
 			}
 		},
 		{
-			"name": "CW11 Noncreature",
-			"rarity": "special",
+			"name": "Erase",
+			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "250",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/14.png"
 			}
@@ -155,103 +155,103 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/15.png"
 			}
 		},
 		{
-			"name": "CU01 Small Creature",
+			"name": "Wetland Sambar",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Elk",
-			"collector_number": "31",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/16.png"
 			}
 		},
 		{
-			"name": "CU02 Small Creature",
+			"name": "Jeskai Windscout",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird Scout",
-			"collector_number": "32",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/17.png"
 			}
 		},
 		{
-			"name": "CU03 Small Creature",
+			"name": "Scaldkin",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Elemental",
-			"collector_number": "33",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/18.png"
 			}
 		},
 		{
-			"name": "CU04 SmallWall Creature",
+			"name": "Embodiment of Spring",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Elemental",
-			"collector_number": "34",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/19.png"
 			}
 		},
 		{
-			"name": "CU05 Medium Creature",
+			"name": "Mystic of the Hidden Way",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Human Monk",
-			"collector_number": "35",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/20.png"
 			}
 		},
 		{
-			"name": "CU06 Medium Creature",
+			"name": "Whirlwind Adept",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Djinn Monk",
-			"collector_number": "36",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/21.png"
 			}
 		},
 		{
-			"name": "CU07 MediumWall Creature",
+			"name": "Monastery Flock",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "37",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/22.png"
 			}
 		},
 		{
-			"name": "CU08 Large Creature",
+			"name": "Glacial Stalker",
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Elemental",
-			"collector_number": "38",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/23.png"
 			}
 		},
 		{
-			"name": "CU09 Noncreature",
+			"name": "Disdainful Stroke",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "39",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/24.png"
 			}
 		},
 		{
-			"name": "CU10 Noncreature",
+			"name": "Force Away",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
@@ -261,751 +261,751 @@
 			}
 		},
 		{
-			"name": "CU11 Noncreature",
+			"name": "Singing Bell Strike",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "41",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/26.png"
 			}
 		},
 		{
-			"name": "CU12 Noncreature",
-			"rarity": "special",
+			"name": "Taigam's Scheming",
+			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "251",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/27.png"
 			}
 		},
 		{
-			"name": "CU13 Noncreature",
+			"name": "Cancel",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "42",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/28.png"
 			}
 		},
 		{
-			"name": "CU14 Noncreature",
+			"name": "Crippling Chill",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "43",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/29.png"
 			}
 		},
 		{
-			"name": "CU15 Noncreature",
+			"name": "Weave Fate",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "44",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/30.png"
 			}
 		},
 		{
-			"name": "CU16 Noncreature",
+			"name": "Treasure Cruise",
 			"rarity": "common",
 			"mana_cost": "{7}{U}",
 			"type": "Sorcery",
-			"collector_number": "45",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/31.png"
 			}
 		},
 		{
-			"name": "CB01 Small Creature",
+			"name": "Mardu Skullhunter",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "62",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/32.png"
 			}
 		},
 		{
-			"name": "CB02 Small Creature",
+			"name": "Rite of the Serpent",
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Sorcery",
-			"collector_number": "63",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/33.png"
 			}
 		},
 		{
-			"name": "CB03 SmallWall Creature",
+			"name": "Disowned Ancestor",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Spirit Warrior",
-			"collector_number": "64",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/34.png"
 			}
 		},
 		{
-			"name": "CB04 Medium Creature",
+			"name": "Unyielding Krumar",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "65",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/35.png"
 			}
 		},
 		{
-			"name": "CB05 Medium Creature",
+			"name": "Kheru Dreadmaw",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Zombie Crocodile",
-			"collector_number": "66",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/36.png"
 			}
 		},
 		{
-			"name": "CB06 Medium Creature",
+			"name": "Krumar Bond-Kin",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "67",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/37.png"
 			}
 		},
 		{
-			"name": "CB07 Medium Creature",
+			"name": "Sultai Scavenger",
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Bird Warrior",
-			"collector_number": "68",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/38.png"
 			}
 		},
 		{
-			"name": "CB08 Medium Creature",
+			"name": "Shambling Attendants",
 			"rarity": "common",
 			"mana_cost": "{7}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "69",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/39.png"
 			}
 		},
 		{
-			"name": "CB09 MediumWall Creature",
+			"name": "Sidisi's Pet",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie Ape",
-			"collector_number": "70",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/40.png"
 			}
 		},
 		{
-			"name": "CB10 LargeWall Creature",
-			"rarity": "special",
+			"name": "Rotting Mastodon",
+			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Zombie Elephant",
-			"collector_number": "252",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/41.png"
 			}
 		},
 		{
-			"name": "CB11 Noncreature",
+			"name": "Molting Snakeskin",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "71",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/42.png"
 			}
 		},
 		{
-			"name": "CB12 Noncreature",
+			"name": "Debilitating Injury",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "72",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/43.png"
 			}
 		},
 		{
-			"name": "CB13 Noncreature",
+			"name": "Rakshasa's Secret",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "73",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/44.png"
 			}
 		},
 		{
-			"name": "CB14 Noncreature",
+			"name": "Bitter Revelation",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "74",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/45.png"
 			}
 		},
 		{
-			"name": "CB15 Noncreature",
+			"name": "Dutiful Return",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "75",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/46.png"
 			}
 		},
 		{
-			"name": "CB16 Noncreature",
+			"name": "Throttle",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/47.png"
 			}
 		},
 		{
-			"name": "CR01 Small Creature",
+			"name": "Valley Dasher",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Berserker",
-			"collector_number": "92",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/48.png"
 			}
 		},
 		{
-			"name": "CR02 Small Creature",
+			"name": "Leaping Master",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Monk",
-			"collector_number": "93",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/49.png"
 			}
 		},
 		{
-			"name": "CR03 Small Creature",
+			"name": "Bloodfire Expert",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Efreet Monk",
-			"collector_number": "94",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/50.png"
 			}
 		},
 		{
-			"name": "CR04 Medium Creature",
+			"name": "Mardu Warshrieker",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Orc Druid",
-			"collector_number": "95",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/51.png"
 			}
 		},
 		{
-			"name": "CR05 Medium Creature",
+			"name": "Summit Prowler",
 			"rarity": "common",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Yeti",
-			"collector_number": "96",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/52.png"
 			}
 		},
 		{
-			"name": "CR06 Medium Creature",
+			"name": "Canyon Lurkers",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "97",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/53.png"
 			}
 		},
 		{
-			"name": "CR07 Medium Creature",
+			"name": "Ainok Tracker",
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Dog Scout",
-			"collector_number": "98",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/54.png"
 			}
 		},
 		{
-			"name": "CR08 MediumWall Creature",
+			"name": "Bloodfire Mentor",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Efreet Wizard",
-			"collector_number": "99",
+			"type": "Creature — Efreet Shaman",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/55.png"
 			}
 		},
 		{
-			"name": "CR09 Noncreature",
-			"rarity": "special",
+			"name": "Shatter",
+			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "253",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/56.png"
 			}
 		},
 		{
-			"name": "CR10 Noncreature",
+			"name": "Tormenting Voice",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/57.png"
 			}
 		},
 		{
-			"name": "CR11 Noncreature",
+			"name": "Act of Treason",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "101",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/58.png"
 			}
 		},
 		{
-			"name": "CR12 Noncreature",
+			"name": "Barrage of Boulders",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "102",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/59.png"
 			}
 		},
 		{
-			"name": "CR13 Noncreature",
+			"name": "Trumpet Blast",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "103",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/60.png"
 			}
 		},
 		{
-			"name": "CR14 Noncreature",
+			"name": "Bring Low",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/61.png"
 			}
 		},
 		{
-			"name": "CR15 Noncreature",
+			"name": "Swift Kick",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "105",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/62.png"
 			}
 		},
 		{
-			"name": "CR16 Noncreature",
+			"name": "Arrow Storm",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/63.png"
 			}
 		},
 		{
-			"name": "CG01 Small Creature",
+			"name": "Kin-Tree Warden",
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "123",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/64.png"
 			}
 		},
 		{
-			"name": "CG02 Small Creature",
+			"name": "Highland Game",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elk",
-			"collector_number": "124",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/65.png"
 			}
 		},
 		{
-			"name": "CG03 Small Creature",
+			"name": "Smoke Teller",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "125",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/66.png"
 			}
 		},
 		{
-			"name": "CG04 Medium Creature",
+			"name": "Alpine Grizzly",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Bear",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/67.png"
 			}
 		},
 		{
-			"name": "CG05 Medium Creature",
+			"name": "Longshot Squad",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Dog Archer",
-			"collector_number": "127",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/68.png"
 			}
 		},
 		{
-			"name": "CG06 Medium Creature",
+			"name": "Hooting Mandrills",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Ape",
-			"collector_number": "128",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/69.png"
 			}
 		},
 		{
-			"name": "CG07 MediumWall Creature",
+			"name": "Archers' Parapet",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Wall",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/70.png"
 			}
 		},
 		{
-			"name": "CG08 MediumWall Creature",
+			"name": "Sagu Archer",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Snake Archer",
-			"collector_number": "130",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/71.png"
 			}
 		},
 		{
-			"name": "CG09 Large Creature",
+			"name": "Tusked Colossodon",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "131",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/72.png"
 			}
 		},
 		{
-			"name": "CG10 Large Creature",
+			"name": "Woolly Loxodon",
 			"rarity": "common",
 			"mana_cost": "{6}{G}",
 			"type": "Creature — Elephant Warrior",
-			"collector_number": "132",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/73.png"
 			}
 		},
 		{
-			"name": "CG11 Noncreature",
-			"rarity": "special",
+			"name": "Feed the Clan",
+			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "254",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/74.png"
 			}
 		},
 		{
-			"name": "CG12 Noncreature",
+			"name": "Naturalize",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "133",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/75.png"
 			}
 		},
 		{
-			"name": "CG13 Noncreature",
+			"name": "Savage Punch",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "134",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/76.png"
 			}
 		},
 		{
-			"name": "CG14 Noncreature",
+			"name": "Awaken the Bear",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/77.png"
 			}
 		},
 		{
-			"name": "CG15 Noncreature",
+			"name": "Scout the Borders",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "136",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/78.png"
 			}
 		},
 		{
-			"name": "CG16 Noncreature",
+			"name": "Dragonscale Boon",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "137",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/79.png"
 			}
 		},
 		{
-			"name": "CM01 Small Creature",
+			"name": "Ponyback Brigade",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{W}{B}",
 			"type": "Creature — Goblin Warrior",
-			"collector_number": "170",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/80.png"
 			}
 		},
 		{
-			"name": "CM02 Medium Creature",
+			"name": "Efreet Weaponmaster",
 			"rarity": "common",
 			"mana_cost": "{3}{U}{R}{W}",
 			"type": "Creature — Efreet Monk",
-			"collector_number": "171",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/81.png"
 			}
 		},
 		{
-			"name": "CM03 Medium Creature",
+			"name": "Abzan Guide",
 			"rarity": "common",
 			"mana_cost": "{3}{W}{B}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "172",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/82.png"
 			}
 		},
 		{
-			"name": "CM04 Medium Creature",
+			"name": "Abomination of Gudul",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "173",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/83.png"
 			}
 		},
 		{
-			"name": "CM05 Large Creature",
+			"name": "Snowhorn Rider",
 			"rarity": "common",
 			"mana_cost": "{3}{G}{U}{R}",
 			"type": "Creature",
-			"collector_number": "174",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/84.png"
 			}
 		},
 		{
-			"name": "CA01 Noncreature",
+			"name": "Lens of Clarity",
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "220",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/85.png"
 			}
 		},
 		{
-			"name": "CA02 Noncreature",
-			"rarity": "special",
+			"name": "Abzan Banner",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "255",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/86.png"
 			}
 		},
 		{
-			"name": "CA03 Noncreature",
-			"rarity": "special",
+			"name": "Jeskai Banner",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "256",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/87.png"
 			}
 		},
 		{
-			"name": "CA04 Noncreature",
-			"rarity": "special",
+			"name": "Mardu Banner",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "257",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/88.png"
 			}
 		},
 		{
-			"name": "CA05 Noncreature",
-			"rarity": "special",
+			"name": "Sultai Banner",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "258",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/89.png"
 			}
 		},
 		{
-			"name": "CA06 Noncreature",
-			"rarity": "special",
+			"name": "Temur Banner",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "259",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/90.png"
 			}
 		},
 		{
-			"name": "CL01 Noncreature",
+			"name": "Bloodfell Caves",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "240",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/91.png"
 			}
 		},
 		{
-			"name": "CL02 Noncreature",
+			"name": "Blossoming Sands",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "241",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/92.png"
 			}
 		},
 		{
-			"name": "CL03 Noncreature",
+			"name": "Dismal Backwater",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "242",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/93.png"
 			}
 		},
 		{
-			"name": "CL06 Noncreature",
+			"name": "Jungle Hollow",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "243",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/94.png"
 			}
 		},
 		{
-			"name": "CL09 Noncreature",
+			"name": "Rugged Highlands",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "244",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/95.png"
 			}
 		},
 		{
-			"name": "CL10 Noncreature",
+			"name": "Scoured Barrens",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "245",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/96.png"
 			}
 		},
 		{
-			"name": "CL12 Noncreature",
+			"name": "Swiftwater Cliffs",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "246",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/97.png"
 			}
 		},
 		{
-			"name": "CL13 Noncreature",
+			"name": "Thornwood Falls",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "247",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/98.png"
 			}
 		},
 		{
-			"name": "CL14 Noncreature",
+			"name": "Tranquil Cove",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "248",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/99.png"
 			}
 		},
 		{
-			"name": "CL15 Noncreature",
+			"name": "Wind-Scarred Crag",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "249",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/100.png"
 			}
@@ -1014,8 +1014,8 @@
 			"name": "Seeker of the Way",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Monk",
-			"collector_number": "21",
+			"type": "Creature — Human Warrior",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/101.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Bird Soldier",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/102.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Instant",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/103.png"
 			}
@@ -1065,7 +1065,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/106.png"
 			}
@@ -1084,8 +1084,8 @@
 			"name": "Venerable Lammasu",
 			"rarity": "uncommon",
 			"mana_cost": "{6}{W}",
-			"type": "Creature — Dragon",
-			"collector_number": "27",
+			"type": "Creature — Lammasu",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/108.png"
 			}
@@ -1105,653 +1105,653 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/110.png"
 			}
 		},
 		{
-			"name": "UU01 Small Creature",
+			"name": "Jeskai Elder",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Monk",
-			"collector_number": "53",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/111.png"
 			}
 		},
 		{
-			"name": "UU02 Small Creature",
+			"name": "Mistfire Weaver",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Djinn Wizard",
-			"collector_number": "54",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/112.png"
 			}
 		},
 		{
-			"name": "UU Morph Reveal",
+			"name": "Dragon's Eye Savants",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "52",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/113.png"
 			}
 		},
 		{
-			"name": "UU04 MediumWall Creature",
+			"name": "Scion of Glaciers",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Elemental",
-			"collector_number": "55",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/114.png"
 			}
 		},
 		{
-			"name": "UU05 Large Creature",
+			"name": "Riverwheel Aerialists",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}",
-			"type": "Creature — Dragon",
-			"collector_number": "56",
+			"type": "Creature — Djinn Monk",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/115.png"
 			}
 		},
 		{
-			"name": "UU06 Noncreature",
+			"name": "Stubborn Denial",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/116.png"
 			}
 		},
 		{
-			"name": "UU07 Noncreature",
+			"name": "Quiet Contemplation",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "58",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/117.png"
 			}
 		},
 		{
-			"name": "UU08 Noncreature",
+			"name": "Blinding Spray",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/118.png"
 			}
 		},
 		{
-			"name": "UU09 Noncreature",
+			"name": "Set Adrift",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}",
 			"type": "Sorcery",
-			"collector_number": "60",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/119.png"
 			}
 		},
 		{
-			"name": "UU10 Noncreature",
+			"name": "Waterwhirl",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Instant",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/120.png"
 			}
 		},
 		{
-			"name": "UB01 Morph Reveal",
+			"name": "Ruthless Ripper",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "82",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/121.png"
 			}
 		},
 		{
-			"name": "UB02 Small Creature",
+			"name": "Gurmag Swiftwing",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Bat",
-			"collector_number": "83",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/122.png"
 			}
 		},
 		{
-			"name": "UB03 Small Creature",
+			"name": "Kheru Bloodsucker",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Vampire",
-			"collector_number": "84",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/123.png"
 			}
 		},
 		{
-			"name": "UB04 Small Creature",
+			"name": "Swarm of Bloodflies",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Insect",
-			"collector_number": "85",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/124.png"
 			}
 		},
 		{
-			"name": "UB05 Medium Creature",
+			"name": "Mer-Ek Nightblade",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Orc Assassin",
-			"collector_number": "86",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/125.png"
 			}
 		},
 		{
-			"name": "UB06 Large Creature",
+			"name": "Bellowing Saddlebrute",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "87",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/126.png"
 			}
 		},
 		{
-			"name": "UB07 Noncreature",
+			"name": "Despise",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "88",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/127.png"
 			}
 		},
 		{
-			"name": "UB08 Noncreature",
+			"name": "Dead Drop",
 			"rarity": "uncommon",
 			"mana_cost": "{9}{B}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/128.png"
 			}
 		},
 		{
-			"name": "UB09 Noncreature",
+			"name": "Raiders' Spoils",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "90",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/129.png"
 			}
 		},
 		{
-			"name": "UB10 Noncreature",
+			"name": "Murderous Cut",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "91",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/130.png"
 			}
 		},
 		{
-			"name": "UR01 Small Creature",
+			"name": "Monastery Swiftspear",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Monk",
-			"collector_number": "114",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/131.png"
 			}
 		},
 		{
-			"name": "UR Morph Reveal",
+			"name": "Horde Ambusher",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Berserker",
-			"collector_number": "113",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/132.png"
 			}
 		},
 		{
-			"name": "UR03 Small Creature",
+			"name": "War-Name Aspirant",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "115",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/133.png"
 			}
 		},
 		{
-			"name": "UR04 Small Creature",
+			"name": "Goblinslide",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "116",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/134.png"
 			}
 		},
 		{
-			"name": "UR05 Small Creature",
+			"name": "Hordeling Outburst",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/135.png"
 			}
 		},
 		{
-			"name": "UR06 Medium Creature",
+			"name": "Mardu Blazebringer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Ogre Warrior",
-			"collector_number": "118",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/136.png"
 			}
 		},
 		{
-			"name": "UR07 Medium Creature",
+			"name": "Mardu Heart-Piercer",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Archer",
-			"collector_number": "119",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/137.png"
 			}
 		},
 		{
-			"name": "UR08 Noncreature",
+			"name": "Arc Lightning",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/138.png"
 			}
 		},
 		{
-			"name": "UR09 Noncreature",
+			"name": "Dragon Grip",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "121",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/139.png"
 			}
 		},
 		{
-			"name": "UR10 Noncreature",
+			"name": "Burn Away",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "",
-			"collector_number": "122",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/140.png"
 			}
 		},
 		{
-			"name": "UG01 Small Creature",
+			"name": "Heir of the Wilds",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "145",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/141.png"
 			}
 		},
 		{
-			"name": "UG Morph Reveal",
+			"name": "Temur Charger",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Horse",
-			"collector_number": "144",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/142.png"
 			}
 		},
 		{
-			"name": "UG03 Medium Creature",
+			"name": "Tuskguard Captain",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "146",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/143.png"
 			}
 		},
 		{
-			"name": "UG04 Medium Creature",
+			"name": "Sultai Flayer",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Snake Warlock",
-			"collector_number": "147",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/144.png"
 			}
 		},
 		{
-			"name": "UG05 Large Creature",
+			"name": "Pine Walker",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "148",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/145.png"
 			}
 		},
 		{
-			"name": "UG06 Noncreature",
+			"name": "Windstorm",
 			"rarity": "uncommon",
 			"mana_cost": "{X}{G}",
 			"type": "Instant",
-			"collector_number": "149",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/146.png"
 			}
 		},
 		{
-			"name": "UG07 Noncreature",
+			"name": "Roar of Challenge",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "150",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/147.png"
 			}
 		},
 		{
-			"name": "UG08 Noncreature",
+			"name": "Seek the Horizon",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/148.png"
 			}
 		},
 		{
-			"name": "UG09 Noncreature",
+			"name": "Incremental Growth",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "152",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/149.png"
 			}
 		},
 		{
-			"name": "UG10 Noncreature",
+			"name": "Become Immense",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}",
 			"type": "Instant",
-			"collector_number": "153",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/150.png"
 			}
 		},
 		{
-			"name": "UM01 Small Creature",
+			"name": "Icefeather Aven",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
-			"type": "Creature — Bird Druid",
-			"collector_number": "168",
+			"type": "Creature — Bird Shaman",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/151.png"
 			}
 		},
 		{
-			"name": "UM02 Small Creature",
+			"name": "Mardu Charm",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Instant",
-			"collector_number": "205",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/152.png"
 			}
 		},
 		{
-			"name": "UM03 Medium Creature",
+			"name": "Chief of the Edge",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "156",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/153.png"
 			}
 		},
 		{
-			"name": "UM04 Medium Creature",
+			"name": "Chief of the Scale",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "157",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/154.png"
 			}
 		},
 		{
-			"name": "UM05 Medium Creature",
+			"name": "Highspire Mantis",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Insect",
-			"collector_number": "165",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/155.png"
 			}
 		},
 		{
-			"name": "UM06 Medium Creature",
+			"name": "Bear's Companion",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "206",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/156.png"
 			}
 		},
 		{
-			"name": "UM07 Medium Creature",
+			"name": "Warden of the Eye",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Creature — Djinn Wizard",
-			"collector_number": "207",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/157.png"
 			}
 		},
 		{
-			"name": "UM08 Medium Creature",
+			"name": "Armament Corps",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}{G}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "208",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/158.png"
 			}
 		},
 		{
-			"name": "UM09 MediumWall Creature",
+			"name": "Sultai Soothsayer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Creature — Snake Druid",
-			"collector_number": "209",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/159.png"
 			}
 		},
 		{
-			"name": "UM10 Large Creature",
+			"name": "Mardu Roughrider",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "210",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/160.png"
 			}
 		},
 		{
-			"name": "UM11 Noncreature",
+			"name": "Kin-Tree Invocation",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "162",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/161.png"
 			}
 		},
 		{
-			"name": "UM12 Noncreature",
+			"name": "Secret Plans",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "169",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/162.png"
 			}
 		},
 		{
-			"name": "UM13 Noncreature",
+			"name": "Ride Down",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "166",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/163.png"
 			}
 		},
 		{
-			"name": "UM14 Noncreature",
+			"name": "Sultai Charm",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Instant",
-			"collector_number": "211",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/164.png"
 			}
 		},
 		{
-			"name": "UM15 Noncreature",
+			"name": "Temur Charm",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Instant",
-			"collector_number": "212",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/165.png"
 			}
 		},
 		{
-			"name": "UM16 Noncreature",
+			"name": "Winterflame",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "159",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/166.png"
 			}
 		},
 		{
-			"name": "UM17 Noncreature",
+			"name": "Jeskai Charm",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Instant",
-			"collector_number": "213",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/167.png"
 			}
 		},
 		{
-			"name": "UM18 Noncreature",
+			"name": "Abzan Charm",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Instant",
-			"collector_number": "214",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/168.png"
 			}
 		},
 		{
-			"name": "UM19 Noncreature",
+			"name": "Death Frenzy",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "163",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/169.png"
 			}
 		},
 		{
-			"name": "UM20 Noncreature",
+			"name": "Master the Way",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "160",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/170.png"
 			}
 		},
 		{
-			"name": "UA01 Medium Creature",
+			"name": "Witness of the Ages",
 			"rarity": "uncommon",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "225",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/171.png"
 			}
 		},
 		{
-			"name": "UA02 Noncreature",
+			"name": "Briber's Purse",
 			"rarity": "uncommon",
 			"mana_cost": "{X}",
 			"type": "Artifact",
-			"collector_number": "226",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/172.png"
 			}
 		},
 		{
-			"name": "UA03 Noncreature",
+			"name": "Cranial Archive",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "227",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/173.png"
 			}
 		},
 		{
-			"name": "UA04 Noncreature",
+			"name": "Heart-Piercer Bow",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "228",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/174.png"
 			}
 		},
 		{
-			"name": "UL01 Noncreature",
+			"name": "Frontier Bivouac",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
@@ -1761,51 +1761,51 @@
 			}
 		},
 		{
-			"name": "UL02 Noncreature",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "235",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/176.png"
-			}
-		},
-		{
-			"name": "UL03 Noncreature",
+			"name": "Mystic Monastery",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/177.png"
+				"en": "https://RandoRuda.github.io/sets/TKR-files/img/176.png"
 			}
 		},
 		{
-			"name": "UL04 Noncreature",
+			"name": "Nomad Outpost",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/178.png"
+				"en": "https://RandoRuda.github.io/sets/TKR-files/img/177.png"
 			}
 		},
 		{
-			"name": "UL05 Noncreature",
+			"name": "Opulent Palace",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "238",
 			"image_uris": {
+				"en": "https://RandoRuda.github.io/sets/TKR-files/img/178.png"
+			}
+		},
+		{
+			"name": "Sandsteppe Citadel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/179.png"
 			}
 		},
 		{
-			"name": "UL06 Noncreature",
+			"name": "Tomb of the Spirit Dragon",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "239",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/180.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/181.png"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Monk",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/182.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Bird Soldier",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/183.png"
 			}
@@ -1851,117 +1851,117 @@
 			}
 		},
 		{
-			"name": "RU01 Medium Creature",
+			"name": "Kheru Spellsnatcher",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Snake Warlock",
-			"collector_number": "48",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/185.png"
 			}
 		},
 		{
-			"name": "RU02 Large Creature",
+			"name": "Thousand Winds",
 			"rarity": "rare",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Elemental",
-			"collector_number": "49",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/186.png"
 			}
 		},
 		{
-			"name": "RU03 Noncreature",
+			"name": "Icy Blast",
 			"rarity": "rare",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/187.png"
 			}
 		},
 		{
-			"name": "RU04 Noncreature",
+			"name": "Dig Through Time",
 			"rarity": "rare",
 			"mana_cost": "{6}{U}{U}",
 			"type": "Instant",
-			"collector_number": "51",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/188.png"
 			}
 		},
 		{
-			"name": "RB01 Small Creature",
+			"name": "Bloodsoaked Champion",
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "78",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/189.png"
 			}
 		},
 		{
-			"name": "RB02 Medium Creature",
+			"name": "Grim Haruspex",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "79",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/190.png"
 			}
 		},
 		{
-			"name": "RB03 Large Creature",
+			"name": "Necropolis Fiend",
 			"rarity": "rare",
 			"mana_cost": "{7}{B}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "80",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/191.png"
 			}
 		},
 		{
-			"name": "RB04 Noncreature",
+			"name": "Retribution of the Ancients",
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
-			"collector_number": "81",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/192.png"
 			}
 		},
 		{
-			"name": "RR01 Small Creature",
+			"name": "Jeering Instigator",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin Rogue",
-			"collector_number": "109",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/193.png"
 			}
 		},
 		{
-			"name": "RR02 Medium Creature",
+			"name": "Dragon-Style Twins",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Monk",
-			"collector_number": "110",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/194.png"
 			}
 		},
 		{
-			"name": "RR03 Noncreature",
+			"name": "Crater's Claws",
 			"rarity": "rare",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/195.png"
 			}
 		},
 		{
-			"name": "RR04 Noncreature",
+			"name": "Howl of the Horde",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
@@ -1971,17 +1971,17 @@
 			}
 		},
 		{
-			"name": "RG01 Small Creature",
+			"name": "Rattleclaw Mystic",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "140",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/197.png"
 			}
 		},
 		{
-			"name": "RG02 LargeWall Creature",
+			"name": "Meandering Towershell",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Turtle",
@@ -1991,77 +1991,77 @@
 			}
 		},
 		{
-			"name": "RG03 Noncreature",
+			"name": "Hardened Scales",
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "142",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/199.png"
 			}
 		},
 		{
-			"name": "RG04 Noncreature",
+			"name": "Trail of Mystery",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "143",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/200.png"
 			}
 		},
 		{
-			"name": "RM01 Small Creature",
+			"name": "Rakshasa Deathdealer",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Demon",
-			"collector_number": "161",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/201.png"
 			}
 		},
 		{
-			"name": "RM02 Small Creature",
+			"name": "Mardu Ascendancy",
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "180",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/202.png"
 			}
 		},
 		{
-			"name": "RM03 Small Creature",
+			"name": "Abzan Ascendancy",
 			"rarity": "rare",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "181",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/203.png"
 			}
 		},
 		{
-			"name": "RM04 Small Creature",
+			"name": "Ankle Shanker",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Creature — Goblin Berserker",
-			"collector_number": "182",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/204.png"
 			}
 		},
 		{
-			"name": "RM05 Medium Creature",
+			"name": "Savage Knuckleblade",
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Creature — Ogre Warrior",
-			"collector_number": "183",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/205.png"
 			}
 		},
 		{
-			"name": "RM06 Medium Creature",
+			"name": "Mantis Rider",
 			"rarity": "rare",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Creature — Insect",
@@ -2071,271 +2071,271 @@
 			}
 		},
 		{
-			"name": "RM07 Medium Creature",
+			"name": "Rakshasa Vizier",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Creature — Demon",
-			"collector_number": "185",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/207.png"
 			}
 		},
 		{
-			"name": "RM08 Medium Creature",
+			"name": "Sage of the Inward Eye",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Creature — Djinn Wizard",
-			"collector_number": "186",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/208.png"
 			}
 		},
 		{
-			"name": "RM09 Medium Creature",
+			"name": "Kheru Lich Lord",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Creature — Zombie Wizard",
-			"collector_number": "187",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/209.png"
 			}
 		},
 		{
-			"name": "RM10 Large Creature",
+			"name": "Siege Rhino",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Creature — Rhino",
-			"collector_number": "188",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/210.png"
 			}
 		},
 		{
-			"name": "RM11 Large Creature",
+			"name": "Butcher of the Horde",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "189",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/211.png"
 			}
 		},
 		{
-			"name": "RM12 Large Creature",
+			"name": "Avalanche Tusker",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Creature — Elephant Warrior",
-			"collector_number": "190",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/212.png"
 			}
 		},
 		{
-			"name": "RM13 Large Creature",
+			"name": "Ivorytusk Fortress",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}{G}",
 			"type": "Creature — Elephant",
-			"collector_number": "191",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/213.png"
 			}
 		},
 		{
-			"name": "RM14 Large Creature",
+			"name": "Sagu Mauler",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Creature — Beast",
-			"collector_number": "167",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/214.png"
 			}
 		},
 		{
-			"name": "RM15 Noncreature",
+			"name": "Deflecting Palm",
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "164",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/215.png"
 			}
 		},
 		{
-			"name": "RM16 Noncreature",
+			"name": "Mindswipe",
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
-			"collector_number": "158",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/216.png"
 			}
 		},
 		{
-			"name": "RM17 Noncreature",
+			"name": "Sultai Ascendancy",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "192",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/217.png"
 			}
 		},
 		{
-			"name": "RM18 Noncreature",
+			"name": "Villainous Wealth",
 			"rarity": "rare",
 			"mana_cost": "{X}{B}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "193",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/218.png"
 			}
 		},
 		{
-			"name": "RM19 Noncreature",
+			"name": "Temur Ascendancy",
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "194",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/219.png"
 			}
 		},
 		{
-			"name": "RM20 Noncreature",
+			"name": "Trap Essence",
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Instant",
-			"collector_number": "195",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/220.png"
 			}
 		},
 		{
-			"name": "RM21 Noncreature",
+			"name": "Crackling Doom",
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Instant",
-			"collector_number": "196",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/221.png"
 			}
 		},
 		{
-			"name": "RM22 Noncreature",
+			"name": "Jeskai Ascendancy",
 			"rarity": "rare",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "197",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/222.png"
 			}
 		},
 		{
-			"name": "RM23 Noncreature",
+			"name": "Utter End",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Instant",
-			"collector_number": "155",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/223.png"
 			}
 		},
 		{
-			"name": "RM24 Noncreature",
+			"name": "Flying Crane Technique",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{R}{W}",
 			"type": "Instant",
-			"collector_number": "198",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/224.png"
 			}
 		},
 		{
-			"name": "RM25 Noncreature",
+			"name": "Duneblast",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "199",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/225.png"
 			}
 		},
 		{
-			"name": "RA01 Noncreature",
+			"name": "Altar of the Brood",
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "222",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/226.png"
 			}
 		},
 		{
-			"name": "RA02 Noncreature",
+			"name": "Ghostfire Blade",
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "223",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/227.png"
 			}
 		},
 		{
-			"name": "RA03 Noncreature",
+			"name": "Dragon Throne of Tarkir",
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "224",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/228.png"
 			}
 		},
 		{
-			"name": "RL01 Noncreature",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "229",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/229.png"
-			}
-		},
-		{
-			"name": "RL02 Noncreature",
+			"name": "Bloodstained Mire",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "230",
 			"image_uris": {
+				"en": "https://RandoRuda.github.io/sets/TKR-files/img/229.png"
+			}
+		},
+		{
+			"name": "Flooded Strand",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "233",
+			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/230.png"
 			}
 		},
 		{
-			"name": "RL03 Noncreature",
+			"name": "Polluted Delta",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "231",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/231.png"
 			}
 		},
 		{
-			"name": "RL04 Noncreature",
+			"name": "Windswept Heath",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "232",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/232.png"
 			}
 		},
 		{
-			"name": "RL05 Noncreature",
+			"name": "Wooded Foothills",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "233",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/233.png"
 			}
@@ -2345,1002 +2345,402 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Bird",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/234.png"
 			}
 		},
 		{
-			"name": "MU01",
+			"name": "Clever Impersonator",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "46",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/235.png"
 			}
 		},
 		{
-			"name": "MU02",
+			"name": "Pearl Lake Ancient",
 			"rarity": "mythic",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Leviathan",
-			"collector_number": "47",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/236.png"
 			}
 		},
 		{
-			"name": "MB01",
+			"name": "Empty the Pits",
 			"rarity": "mythic",
 			"mana_cost": "{X}{X}{B}{B}{B}{B}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/237.png"
 			}
 		},
 		{
-			"name": "MR01",
+			"name": "Ashcloud Phoenix",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Phoenix",
-			"collector_number": "107",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/238.png"
 			}
 		},
 		{
-			"name": "MR02",
+			"name": "Sarkhan, the Dragonspeaker",
 			"rarity": "mythic",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Planeswalker — Sarkhan",
-			"collector_number": "108",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/239.png"
 			}
 		},
 		{
-			"name": "MG01",
+			"name": "Hooded Hydra",
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Creature — Snake Hydra",
-			"collector_number": "138",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/240.png"
 			}
 		},
 		{
-			"name": "MG02",
+			"name": "See the Unwritten",
 			"rarity": "mythic",
 			"mana_cost": "{5}{G}",
 			"type": "Sorcery",
-			"collector_number": "139",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/241.png"
 			}
 		},
 		{
-			"name": "MM01",
+			"name": "Sidisi, Brood Tyrant",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Legendary Creature — Snake Warlock",
-			"collector_number": "175",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/242.png"
 			}
 		},
 		{
-			"name": "MM02",
+			"name": "Sorin, Solemn Visitor",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Planeswalker — Sorin",
-			"collector_number": "154",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/243.png"
 			}
 		},
 		{
-			"name": "MM03",
+			"name": "Anafenza, the Foremost",
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "176",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/244.png"
 			}
 		},
 		{
-			"name": "MM04",
+			"name": "Narset, Enlightened Master",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}{W}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "177",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/245.png"
 			}
 		},
 		{
-			"name": "MM05",
+			"name": "Zurgo Helmsmasher",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Legendary Creature — Orc Warrior",
-			"collector_number": "178",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/246.png"
 			}
 		},
 		{
-			"name": "MM06",
+			"name": "Surrak Dragonclaw",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "179",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/247.png"
 			}
 		},
 		{
-			"name": "MA01",
+			"name": "Ugin's Nexus",
 			"rarity": "mythic",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
-			"collector_number": "221",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://RandoRuda.github.io/sets/TKR-files/img/248.png"
-			}
-		},
-		{
-			"name": "UM Dragon Abzan",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{B}{G}",
-			"type": "Creature — Dragon",
-			"collector_number": "200",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/249.png"
-			}
-		},
-		{
-			"name": "UM Dragon Jeskai",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{R}{W}",
-			"type": "Creature — Dragon",
-			"collector_number": "201",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/250.png"
-			}
-		},
-		{
-			"name": "UM Dragon Sultai",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{G}{U}",
-			"type": "Creature — Dragon",
-			"collector_number": "203",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/251.png"
-			}
-		},
-		{
-			"name": "UM Dragon Mardu",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{W}{B}",
-			"type": "Creature — Dragon",
-			"collector_number": "202",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/252.png"
-			}
-		},
-		{
-			"name": "UM Dragon Temur",
-			"rarity": "uncommon",
-			"mana_cost": "{G}{U}{R}",
-			"type": "Creature — Dragon",
-			"collector_number": "204",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/253.png"
-			}
-		},
-		{
-			"name": "UM Hybrid WB",
-			"rarity": "uncommon",
-			"mana_cost": "{W/B}",
-			"type": "",
-			"collector_number": "215",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/254.png"
-			}
-		},
-		{
-			"name": "UM Hybrid UR",
-			"rarity": "uncommon",
-			"mana_cost": "{U/R}",
-			"type": "",
-			"collector_number": "216",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/255.png"
-			}
-		},
-		{
-			"name": "UM Hybrid BG",
-			"rarity": "uncommon",
-			"mana_cost": "{B/G}",
-			"type": "",
-			"collector_number": "217",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/256.png"
-			}
-		},
-		{
-			"name": "UM Hybrid RW",
-			"rarity": "uncommon",
-			"mana_cost": "{R/W}",
-			"type": "",
-			"collector_number": "218",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/257.png"
-			}
-		},
-		{
-			"name": "UM Hybrid GU",
-			"rarity": "uncommon",
-			"mana_cost": "{G/U}",
-			"type": "",
-			"collector_number": "219",
-			"image_uris": {
-				"en": "https://RandoRuda.github.io/sets/TKR-files/img/258.png"
 			}
 		}
 	]
 
 [rare(1)]
-	2 Herald of Anafenza
-	2 Master of Pearls
-	2 High Sentinels of Arashin
-	2 End Hostilities
-	2 RU01 Medium Creature
-	2 RU02 Large Creature
-	2 RU03 Noncreature
-	2 RU04 Noncreature
-	2 RB01 Small Creature
-	2 RB02 Medium Creature
-	2 RB03 Large Creature
-	2 RB04 Noncreature
-	2 RR01 Small Creature
-	2 RR02 Medium Creature
-	2 RR03 Noncreature
-	2 RR04 Noncreature
-	2 RG01 Small Creature
-	2 RG02 LargeWall Creature
-	2 RG03 Noncreature
-	2 RG04 Noncreature
-	2 RM01 Small Creature
-	2 RM02 Small Creature
-	2 RM03 Small Creature
-	2 RM04 Small Creature
-	2 RM05 Medium Creature
-	2 RM06 Medium Creature
-	2 RM07 Medium Creature
-	2 RM08 Medium Creature
-	2 RM09 Medium Creature
-	2 RM10 Large Creature
-	2 RM11 Large Creature
-	2 RM12 Large Creature
-	2 RM13 Large Creature
-	2 RM14 Large Creature
-	2 RM15 Noncreature
-	2 RM16 Noncreature
-	2 RM17 Noncreature
-	2 RM18 Noncreature
-	2 RM19 Noncreature
-	2 RM20 Noncreature
-	2 RM21 Noncreature
-	2 RM22 Noncreature
-	2 RM23 Noncreature
-	2 RM24 Noncreature
-	2 RM25 Noncreature
-	2 RA01 Noncreature
-	2 RA02 Noncreature
-	2 RA03 Noncreature
-	2 RL01 Noncreature
-	2 RL02 Noncreature
-	2 RL03 Noncreature
-	2 RL04 Noncreature
-	2 RL05 Noncreature
-	1 Wingmate Roc
-	1 MU01
-	1 MU02
-	1 MB01
-	1 MR01
-	1 MR02
-	1 MG01
-	1 MG02
-	1 MM01
-	1 MM02
-	1 MM03
-	1 MM04
-	1 MM05
-	1 MM06
-	1 MA01
+	5 Herald of Anafenza
+	5 Master of Pearls
+	5 High Sentinels of Arashin
+	5 End Hostilities
+	5 Kheru Spellsnatcher
+	5 Thousand Winds
+	5 Icy Blast
+	5 Dig Through Time
+	5 Bloodsoaked Champion
+	5 Grim Haruspex
+	5 Necropolis Fiend
+	5 Retribution of the Ancients
+	5 Jeering Instigator
+	5 Dragon-Style Twins
+	5 Crater's Claws
+	5 Howl of the Horde
+	5 Rattleclaw Mystic
+	5 Meandering Towershell
+	5 Hardened Scales
+	5 Trail of Mystery
+	5 Rakshasa Deathdealer
+	5 Mardu Ascendancy
+	5 Abzan Ascendancy
+	5 Ankle Shanker
+	5 Savage Knuckleblade
+	5 Mantis Rider
+	5 Rakshasa Vizier
+	5 Sage of the Inward Eye
+	5 Kheru Lich Lord
+	5 Siege Rhino
+	5 Butcher of the Horde
+	5 Avalanche Tusker
+	5 Ivorytusk Fortress
+	5 Sagu Mauler
+	5 Deflecting Palm
+	5 Mindswipe
+	5 Sultai Ascendancy
+	5 Villainous Wealth
+	5 Temur Ascendancy
+	5 Trap Essence
+	5 Crackling Doom
+	5 Jeskai Ascendancy
+	5 Utter End
+	5 Flying Crane Technique
+	5 Duneblast
+	5 Altar of the Brood
+	5 Ghostfire Blade
+	5 Dragon Throne of Tarkir
+	5 Bloodstained Mire
+	5 Flooded Strand
+	5 Polluted Delta
+	5 Windswept Heath
+	5 Wooded Foothills
+	5 Wingmate Roc
+	5 Clever Impersonator
+	5 Pearl Lake Ancient
+	5 Empty the Pits
+	5 Ashcloud Phoenix
+	5 Sarkhan, the Dragonspeaker
+	5 Hooded Hydra
+	5 See the Unwritten
+	5 Sidisi, Brood Tyrant
+	5 Sorin, Solemn Visitor
+	5 Anafenza, the Foremost
+	5 Narset, Enlightened Master
+	5 Zurgo Helmsmasher
+	5 Surrak Dragonclaw
+	5 Ugin's Nexus
 [uncommon(3)]
-	4 Seeker of the Way
-	4 Watcher of the Roost
-	4 Take Up Arms
-	4 Abzan Falconer
-	4 Abzan Battle Priest
-	4 Timely Hordemate
-	4 Dazzling Ramparts
-	4 Venerable Lammasu
-	4 Brave the Sands
-	4 Suspension Field
-	4 UU01 Small Creature
-	4 UU02 Small Creature
-	4 UU Morph Reveal
-	4 UU04 MediumWall Creature
-	4 UU05 Large Creature
-	4 UU06 Noncreature
-	4 UU07 Noncreature
-	4 UU08 Noncreature
-	4 UU09 Noncreature
-	4 UU10 Noncreature
-	4 UB01 Morph Reveal
-	4 UB02 Small Creature
-	4 UB03 Small Creature
-	4 UB04 Small Creature
-	4 UB05 Medium Creature
-	4 UB06 Large Creature
-	4 UB07 Noncreature
-	4 UB08 Noncreature
-	4 UB09 Noncreature
-	4 UB10 Noncreature
-	4 UR01 Small Creature
-	4 UR Morph Reveal
-	4 UR03 Small Creature
-	4 UR04 Small Creature
-	4 UR05 Small Creature
-	4 UR06 Medium Creature
-	4 UR07 Medium Creature
-	4 UR08 Noncreature
-	4 UR09 Noncreature
-	4 UR10 Noncreature
-	4 UG01 Small Creature
-	4 UG Morph Reveal
-	4 UG03 Medium Creature
-	4 UG04 Medium Creature
-	4 UG05 Large Creature
-	4 UG06 Noncreature
-	4 UG07 Noncreature
-	4 UG08 Noncreature
-	4 UG09 Noncreature
-	4 UG10 Noncreature
-	4 UM01 Small Creature
-	4 UM02 Small Creature
-	4 UM03 Medium Creature
-	4 UM04 Medium Creature
-	4 UM05 Medium Creature
-	4 UM06 Medium Creature
-	4 UM07 Medium Creature
-	4 UM08 Medium Creature
-	4 UM09 MediumWall Creature
-	4 UM10 Large Creature
-	4 UM11 Noncreature
-	4 UM12 Noncreature
-	4 UM13 Noncreature
-	4 UM14 Noncreature
-	4 UM15 Noncreature
-	4 UM16 Noncreature
-	4 UM17 Noncreature
-	4 UM18 Noncreature
-	4 UM19 Noncreature
-	4 UM20 Noncreature
-	4 UA01 Medium Creature
-	4 UA02 Noncreature
-	4 UA03 Noncreature
-	4 UA04 Noncreature
-	4 UL01 Noncreature
-	4 UL02 Noncreature
-	4 UL03 Noncreature
-	4 UL04 Noncreature
-	4 UL05 Noncreature
-	4 UL06 Noncreature
-	4 UM Dragon Abzan
-	4 UM Dragon Jeskai
-	4 UM Dragon Sultai
-	4 UM Dragon Mardu
-	4 UM Dragon Temur
-	4 UM Hybrid WB
-	4 UM Hybrid UR
-	4 UM Hybrid BG
-	4 UM Hybrid RW
-	4 UM Hybrid GU
-[common(7)]
-	8 Firehoof Cavalry
-	8 Mardu Hateblade
-	8 Ainok Bond-Kin
-	8 Jeskai Student
-	8 Mardu Hordechief
-	8 Alabaster Kirin
-	8 Salt Road Patrol
-	8 Sage-Eye Harrier
-	8 War Behemoth
-	8 Defiant Strike
-	8 Feat of Resistance
-	8 Kill Shot
-	8 Rush of Battle
-	8 Siegecraft
-	8 Smite the Monstrous
-	8 CU01 Small Creature
-	8 CU02 Small Creature
-	8 CU03 Small Creature
-	8 CU04 SmallWall Creature
-	8 CU05 Medium Creature
-	8 CU06 Medium Creature
-	8 CU07 MediumWall Creature
-	8 CU08 Large Creature
-	8 CU09 Noncreature
-	8 CU10 Noncreature
-	8 CU11 Noncreature
-	8 CU13 Noncreature
-	8 CU14 Noncreature
-	8 CU15 Noncreature
-	8 CU16 Noncreature
-	8 CB01 Small Creature
-	8 CB02 Small Creature
-	8 CB03 SmallWall Creature
-	8 CB04 Medium Creature
-	8 CB05 Medium Creature
-	8 CB06 Medium Creature
-	8 CB07 Medium Creature
-	8 CB08 Medium Creature
-	8 CB09 MediumWall Creature
-	8 CB11 Noncreature
-	8 CB12 Noncreature
-	8 CB13 Noncreature
-	8 CB14 Noncreature
-	8 CB15 Noncreature
-	8 CB16 Noncreature
-	8 CR01 Small Creature
-	8 CR02 Small Creature
-	8 CR03 Small Creature
-	8 CR04 Medium Creature
-	8 CR05 Medium Creature
-	8 CR06 Medium Creature
-	8 CR07 Medium Creature
-	8 CR08 MediumWall Creature
-	8 CR10 Noncreature
-	8 CR11 Noncreature
-	8 CR12 Noncreature
-	8 CR13 Noncreature
-	8 CR14 Noncreature
-	8 CR15 Noncreature
-	8 CR16 Noncreature
-	8 CG01 Small Creature
-	8 CG02 Small Creature
-	8 CG03 Small Creature
-	8 CG04 Medium Creature
-	8 CG05 Medium Creature
-	8 CG06 Medium Creature
-	8 CG07 MediumWall Creature
-	8 CG08 MediumWall Creature
-	8 CG09 Large Creature
-	8 CG10 Large Creature
-	8 CG12 Noncreature
-	8 CG13 Noncreature
-	8 CG14 Noncreature
-	8 CG15 Noncreature
-	8 CG16 Noncreature
-	8 CM01 Small Creature
-	8 CM02 Medium Creature
-	8 CM03 Medium Creature
-	8 CM04 Medium Creature
-	8 CM05 Large Creature
-	8 CA01 Noncreature
-	8 CL01 Noncreature
-	8 CL02 Noncreature
-	8 CL03 Noncreature
-	8 CL06 Noncreature
-	8 CL09 Noncreature
-	8 CL10 Noncreature
-	8 CL12 Noncreature
-	8 CL13 Noncreature
-	8 CL14 Noncreature
-	8 CL15 Noncreature
-[foil(1)]
-	12 Firehoof Cavalry
-	12 Mardu Hateblade
-	12 Ainok Bond-Kin
-	12 Jeskai Student
-	12 Mardu Hordechief
-	12 Alabaster Kirin
-	12 Salt Road Patrol
-	12 Sage-Eye Harrier
-	12 War Behemoth
-	12 Defiant Strike
-	12 Feat of Resistance
-	12 Kill Shot
-	12 Rush of Battle
-	12 Siegecraft
-	12 Smite the Monstrous
-	12 CU01 Small Creature
-	12 CU02 Small Creature
-	12 CU03 Small Creature
-	12 CU04 SmallWall Creature
-	12 CU05 Medium Creature
-	12 CU06 Medium Creature
-	12 CU07 MediumWall Creature
-	12 CU08 Large Creature
-	12 CU09 Noncreature
-	12 CU10 Noncreature
-	12 CU11 Noncreature
-	12 CU13 Noncreature
-	12 CU14 Noncreature
-	12 CU15 Noncreature
-	12 CU16 Noncreature
-	12 CB01 Small Creature
-	12 CB02 Small Creature
-	12 CB03 SmallWall Creature
-	12 CB04 Medium Creature
-	12 CB05 Medium Creature
-	12 CB06 Medium Creature
-	12 CB07 Medium Creature
-	12 CB08 Medium Creature
-	12 CB09 MediumWall Creature
-	12 CB11 Noncreature
-	12 CB12 Noncreature
-	12 CB13 Noncreature
-	12 CB14 Noncreature
-	12 CB15 Noncreature
-	12 CB16 Noncreature
-	12 CR01 Small Creature
-	12 CR02 Small Creature
-	12 CR03 Small Creature
-	12 CR04 Medium Creature
-	12 CR05 Medium Creature
-	12 CR06 Medium Creature
-	12 CR07 Medium Creature
-	12 CR08 MediumWall Creature
-	12 CR10 Noncreature
-	12 CR11 Noncreature
-	12 CR12 Noncreature
-	12 CR13 Noncreature
-	12 CR14 Noncreature
-	12 CR15 Noncreature
-	12 CR16 Noncreature
-	12 CG01 Small Creature
-	12 CG02 Small Creature
-	12 CG03 Small Creature
-	12 CG04 Medium Creature
-	12 CG05 Medium Creature
-	12 CG06 Medium Creature
-	12 CG07 MediumWall Creature
-	12 CG08 MediumWall Creature
-	12 CG09 Large Creature
-	12 CG10 Large Creature
-	12 CG12 Noncreature
-	12 CG13 Noncreature
-	12 CG14 Noncreature
-	12 CG15 Noncreature
-	12 CG16 Noncreature
-	12 CM01 Small Creature
-	12 CM02 Medium Creature
-	12 CM03 Medium Creature
-	12 CM04 Medium Creature
-	12 CM05 Large Creature
-	12 CA01 Noncreature
-	12 CL01 Noncreature
-	12 CL02 Noncreature
-	12 CL03 Noncreature
-	12 CL06 Noncreature
-	12 CL09 Noncreature
-	12 CL10 Noncreature
-	12 CL12 Noncreature
-	12 CL13 Noncreature
-	12 CL14 Noncreature
-	12 CL15 Noncreature
-	6 Seeker of the Way
-	6 Watcher of the Roost
-	6 Take Up Arms
-	6 Abzan Falconer
-	6 Abzan Battle Priest
-	6 Timely Hordemate
-	6 Dazzling Ramparts
-	6 Venerable Lammasu
-	6 Brave the Sands
-	6 Suspension Field
-	6 UU01 Small Creature
-	6 UU02 Small Creature
-	6 UU Morph Reveal
-	6 UU04 MediumWall Creature
-	6 UU05 Large Creature
-	6 UU06 Noncreature
-	6 UU07 Noncreature
-	6 UU08 Noncreature
-	6 UU09 Noncreature
-	6 UU10 Noncreature
-	6 UB01 Morph Reveal
-	6 UB02 Small Creature
-	6 UB03 Small Creature
-	6 UB04 Small Creature
-	6 UB05 Medium Creature
-	6 UB06 Large Creature
-	6 UB07 Noncreature
-	6 UB08 Noncreature
-	6 UB09 Noncreature
-	6 UB10 Noncreature
-	6 UR01 Small Creature
-	6 UR Morph Reveal
-	6 UR03 Small Creature
-	6 UR04 Small Creature
-	6 UR05 Small Creature
-	6 UR06 Medium Creature
-	6 UR07 Medium Creature
-	6 UR08 Noncreature
-	6 UR09 Noncreature
-	6 UR10 Noncreature
-	6 UG01 Small Creature
-	6 UG Morph Reveal
-	6 UG03 Medium Creature
-	6 UG04 Medium Creature
-	6 UG05 Large Creature
-	6 UG06 Noncreature
-	6 UG07 Noncreature
-	6 UG08 Noncreature
-	6 UG09 Noncreature
-	6 UG10 Noncreature
-	6 UM01 Small Creature
-	6 UM02 Small Creature
-	6 UM03 Medium Creature
-	6 UM04 Medium Creature
-	6 UM05 Medium Creature
-	6 UM06 Medium Creature
-	6 UM07 Medium Creature
-	6 UM08 Medium Creature
-	6 UM09 MediumWall Creature
-	6 UM10 Large Creature
-	6 UM11 Noncreature
-	6 UM12 Noncreature
-	6 UM13 Noncreature
-	6 UM14 Noncreature
-	6 UM15 Noncreature
-	6 UM16 Noncreature
-	6 UM17 Noncreature
-	6 UM18 Noncreature
-	6 UM19 Noncreature
-	6 UM20 Noncreature
-	6 UA01 Medium Creature
-	6 UA02 Noncreature
-	6 UA03 Noncreature
-	6 UA04 Noncreature
-	6 UL01 Noncreature
-	6 UL02 Noncreature
-	6 UL03 Noncreature
-	6 UL04 Noncreature
-	6 UL05 Noncreature
-	6 UL06 Noncreature
-	2 Herald of Anafenza
-	2 Master of Pearls
-	2 High Sentinels of Arashin
-	2 End Hostilities
-	2 RU01 Medium Creature
-	2 RU02 Large Creature
-	2 RU03 Noncreature
-	2 RU04 Noncreature
-	2 RB01 Small Creature
-	2 RB02 Medium Creature
-	2 RB03 Large Creature
-	2 RB04 Noncreature
-	2 RR01 Small Creature
-	2 RR02 Medium Creature
-	2 RR03 Noncreature
-	2 RR04 Noncreature
-	2 RG01 Small Creature
-	2 RG02 LargeWall Creature
-	2 RG03 Noncreature
-	2 RG04 Noncreature
-	2 RM01 Small Creature
-	2 RM02 Small Creature
-	2 RM03 Small Creature
-	2 RM04 Small Creature
-	2 RM05 Medium Creature
-	2 RM06 Medium Creature
-	2 RM07 Medium Creature
-	2 RM08 Medium Creature
-	2 RM09 Medium Creature
-	2 RM10 Large Creature
-	2 RM11 Large Creature
-	2 RM12 Large Creature
-	2 RM13 Large Creature
-	2 RM14 Large Creature
-	2 RM15 Noncreature
-	2 RM16 Noncreature
-	2 RM17 Noncreature
-	2 RM18 Noncreature
-	2 RM19 Noncreature
-	2 RM20 Noncreature
-	2 RM21 Noncreature
-	2 RM22 Noncreature
-	2 RM23 Noncreature
-	2 RM24 Noncreature
-	2 RM25 Noncreature
-	2 RA01 Noncreature
-	2 RA02 Noncreature
-	2 RA03 Noncreature
-	2 RL01 Noncreature
-	2 RL02 Noncreature
-	2 RL03 Noncreature
-	2 RL04 Noncreature
-	2 RL05 Noncreature
-	1 Wingmate Roc
-	1 MU01
-	1 MU02
-	1 MB01
-	1 MR01
-	1 MR02
-	1 MG01
-	1 MG02
-	1 MM01
-	1 MM02
-	1 MM03
-	1 MM04
-	1 MM05
-	1 MM06
-	1 MA01
-	6 UM Dragon Abzan
-	6 UM Dragon Jeskai
-	6 UM Dragon Sultai
-	6 UM Dragon Mardu
-	6 UM Dragon Temur
-	6 UM Hybrid WB
-	6 UM Hybrid UR
-	6 UM Hybrid BG
-	6 UM Hybrid RW
-	6 UM Hybrid GU
-[wildcard(1)]
-	6 Firehoof Cavalry
-	6 Mardu Hateblade
-	6 Ainok Bond-Kin
-	6 Jeskai Student
-	6 Mardu Hordechief
-	6 Alabaster Kirin
-	6 Salt Road Patrol
-	6 Sage-Eye Harrier
-	6 War Behemoth
-	6 Defiant Strike
-	6 Feat of Resistance
-	6 Kill Shot
-	6 Rush of Battle
-	6 Siegecraft
-	6 Smite the Monstrous
-	6 CU01 Small Creature
-	6 CU02 Small Creature
-	6 CU03 Small Creature
-	6 CU04 SmallWall Creature
-	6 CU05 Medium Creature
-	6 CU06 Medium Creature
-	6 CU07 MediumWall Creature
-	6 CU08 Large Creature
-	6 CU09 Noncreature
-	6 CU10 Noncreature
-	6 CU11 Noncreature
-	6 CU13 Noncreature
-	6 CU14 Noncreature
-	6 CU15 Noncreature
-	6 CU16 Noncreature
-	6 CB01 Small Creature
-	6 CB02 Small Creature
-	6 CB03 SmallWall Creature
-	6 CB04 Medium Creature
-	6 CB05 Medium Creature
-	6 CB06 Medium Creature
-	6 CB07 Medium Creature
-	6 CB08 Medium Creature
-	6 CB09 MediumWall Creature
-	6 CB11 Noncreature
-	6 CB12 Noncreature
-	6 CB13 Noncreature
-	6 CB14 Noncreature
-	6 CB15 Noncreature
-	6 CB16 Noncreature
-	6 CR01 Small Creature
-	6 CR02 Small Creature
-	6 CR03 Small Creature
-	6 CR04 Medium Creature
-	6 CR05 Medium Creature
-	6 CR06 Medium Creature
-	6 CR07 Medium Creature
-	6 CR08 MediumWall Creature
-	6 CR10 Noncreature
-	6 CR11 Noncreature
-	6 CR12 Noncreature
-	6 CR13 Noncreature
-	6 CR14 Noncreature
-	6 CR15 Noncreature
-	6 CR16 Noncreature
-	6 CG01 Small Creature
-	6 CG02 Small Creature
-	6 CG03 Small Creature
-	6 CG04 Medium Creature
-	6 CG05 Medium Creature
-	6 CG06 Medium Creature
-	6 CG07 MediumWall Creature
-	6 CG08 MediumWall Creature
-	6 CG09 Large Creature
-	6 CG10 Large Creature
-	6 CG12 Noncreature
-	6 CG13 Noncreature
-	6 CG14 Noncreature
-	6 CG15 Noncreature
-	6 CG16 Noncreature
-	6 CM01 Small Creature
-	6 CM02 Medium Creature
-	6 CM03 Medium Creature
-	6 CM04 Medium Creature
-	6 CM05 Large Creature
-	6 CA01 Noncreature
-	6 CL01 Noncreature
-	6 CL02 Noncreature
-	6 CL03 Noncreature
-	6 CL06 Noncreature
-	6 CL09 Noncreature
-	6 CL10 Noncreature
-	6 CL12 Noncreature
-	6 CL13 Noncreature
-	6 CL14 Noncreature
-	6 CL15 Noncreature
-	15 Seeker of the Way
-	15 Watcher of the Roost
-	15 Take Up Arms
-	15 Abzan Falconer
-	15 Abzan Battle Priest
-	15 Timely Hordemate
-	15 Dazzling Ramparts
-	15 Venerable Lammasu
-	15 Brave the Sands
-	15 Suspension Field
-	15 UU01 Small Creature
-	15 UU02 Small Creature
-	15 UU Morph Reveal
-	15 UU04 MediumWall Creature
-	15 UU05 Large Creature
-	15 UU06 Noncreature
-	15 UU07 Noncreature
-	15 UU08 Noncreature
-	15 UU09 Noncreature
-	15 UU10 Noncreature
-	15 UB01 Morph Reveal
-	15 UB02 Small Creature
-	15 UB03 Small Creature
-	15 UB04 Small Creature
-	15 UB05 Medium Creature
-	15 UB06 Large Creature
-	15 UB07 Noncreature
-	15 UB08 Noncreature
-	15 UB09 Noncreature
-	15 UB10 Noncreature
-	15 UR01 Small Creature
-	15 UR Morph Reveal
-	15 UR03 Small Creature
-	15 UR04 Small Creature
-	15 UR05 Small Creature
-	15 UR06 Medium Creature
-	15 UR07 Medium Creature
-	15 UR08 Noncreature
-	15 UR09 Noncreature
-	15 UR10 Noncreature
-	15 UG01 Small Creature
-	15 UG Morph Reveal
-	15 UG03 Medium Creature
-	15 UG04 Medium Creature
-	15 UG05 Large Creature
-	15 UG06 Noncreature
-	15 UG07 Noncreature
-	15 UG08 Noncreature
-	15 UG09 Noncreature
-	15 UG10 Noncreature
-	15 UM01 Small Creature
-	15 UM02 Small Creature
-	15 UM03 Medium Creature
-	15 UM04 Medium Creature
-	15 UM05 Medium Creature
-	15 UM06 Medium Creature
-	15 UM07 Medium Creature
-	15 UM08 Medium Creature
-	15 UM09 MediumWall Creature
-	15 UM10 Large Creature
-	15 UM11 Noncreature
-	15 UM12 Noncreature
-	15 UM13 Noncreature
-	15 UM14 Noncreature
-	15 UM15 Noncreature
-	15 UM16 Noncreature
-	15 UM17 Noncreature
-	15 UM18 Noncreature
-	15 UM19 Noncreature
-	15 UM20 Noncreature
-	15 UA01 Medium Creature
-	15 UA02 Noncreature
-	15 UA03 Noncreature
-	15 UA04 Noncreature
-	15 UL01 Noncreature
-	15 UL02 Noncreature
-	15 UL03 Noncreature
-	15 UL04 Noncreature
-	15 UL05 Noncreature
-	15 UL06 Noncreature
-	7 Herald of Anafenza
-	7 Master of Pearls
-	7 High Sentinels of Arashin
-	7 End Hostilities
-	7 RU01 Medium Creature
-	7 RU02 Large Creature
-	7 RU03 Noncreature
-	7 RU04 Noncreature
-	7 RB01 Small Creature
-	7 RB02 Medium Creature
-	7 RB03 Large Creature
-	7 RB04 Noncreature
-	7 RR01 Small Creature
-	7 RR02 Medium Creature
-	7 RR03 Noncreature
-	7 RR04 Noncreature
-	7 RG01 Small Creature
-	7 RG02 LargeWall Creature
-	7 RG03 Noncreature
-	7 RG04 Noncreature
-	7 RM01 Small Creature
-	7 RM02 Small Creature
-	7 RM03 Small Creature
-	7 RM04 Small Creature
-	7 RM05 Medium Creature
-	7 RM06 Medium Creature
-	7 RM07 Medium Creature
-	7 RM08 Medium Creature
-	7 RM09 Medium Creature
-	7 RM10 Large Creature
-	7 RM11 Large Creature
-	7 RM12 Large Creature
-	7 RM13 Large Creature
-	7 RM14 Large Creature
-	7 RM15 Noncreature
-	7 RM16 Noncreature
-	7 RM17 Noncreature
-	7 RM18 Noncreature
-	7 RM19 Noncreature
-	7 RM20 Noncreature
-	7 RM21 Noncreature
-	7 RM22 Noncreature
-	7 RM23 Noncreature
-	7 RM24 Noncreature
-	7 RM25 Noncreature
-	7 RA01 Noncreature
-	7 RA02 Noncreature
-	7 RA03 Noncreature
-	7 RL01 Noncreature
-	7 RL02 Noncreature
-	7 RL03 Noncreature
-	7 RL04 Noncreature
-	7 RL05 Noncreature
-	4 Wingmate Roc
-	4 MU01
-	4 MU02
-	4 MB01
-	4 MR01
-	4 MR02
-	4 MG01
-	4 MG02
-	4 MM01
-	4 MM02
-	4 MM03
-	4 MM04
-	4 MM05
-	4 MM06
-	4 MA01
-	15 UM Dragon Abzan
-	15 UM Dragon Jeskai
-	15 UM Dragon Sultai
-	15 UM Dragon Mardu
-	15 UM Dragon Temur
-	15 UM Hybrid WB
-	15 UM Hybrid UR
-	15 UM Hybrid BG
-	15 UM Hybrid RW
-	15 UM Hybrid GU
+	5 Seeker of the Way
+	5 Watcher of the Roost
+	5 Take Up Arms
+	5 Abzan Falconer
+	5 Abzan Battle Priest
+	5 Timely Hordemate
+	5 Dazzling Ramparts
+	5 Venerable Lammasu
+	5 Brave the Sands
+	5 Suspension Field
+	5 Jeskai Elder
+	5 Mistfire Weaver
+	5 Dragon's Eye Savants
+	5 Scion of Glaciers
+	5 Riverwheel Aerialists
+	5 Stubborn Denial
+	5 Quiet Contemplation
+	5 Blinding Spray
+	5 Set Adrift
+	5 Waterwhirl
+	5 Ruthless Ripper
+	5 Gurmag Swiftwing
+	5 Kheru Bloodsucker
+	5 Swarm of Bloodflies
+	5 Mer-Ek Nightblade
+	5 Bellowing Saddlebrute
+	5 Despise
+	5 Dead Drop
+	5 Raiders' Spoils
+	5 Murderous Cut
+	5 Monastery Swiftspear
+	5 Horde Ambusher
+	5 War-Name Aspirant
+	5 Goblinslide
+	5 Hordeling Outburst
+	5 Mardu Blazebringer
+	5 Mardu Heart-Piercer
+	5 Arc Lightning
+	5 Dragon Grip
+	5 Burn Away
+	5 Heir of the Wilds
+	5 Temur Charger
+	5 Tuskguard Captain
+	5 Sultai Flayer
+	5 Pine Walker
+	5 Windstorm
+	5 Roar of Challenge
+	5 Seek the Horizon
+	5 Incremental Growth
+	5 Become Immense
+	5 Icefeather Aven
+	5 Mardu Charm
+	5 Chief of the Edge
+	5 Chief of the Scale
+	5 Highspire Mantis
+	5 Bear's Companion
+	5 Warden of the Eye
+	5 Armament Corps
+	5 Sultai Soothsayer
+	5 Mardu Roughrider
+	5 Kin-Tree Invocation
+	5 Secret Plans
+	5 Ride Down
+	5 Sultai Charm
+	5 Temur Charm
+	5 Winterflame
+	5 Jeskai Charm
+	5 Abzan Charm
+	5 Death Frenzy
+	5 Master the Way
+	5 Witness of the Ages
+	5 Briber's Purse
+	5 Cranial Archive
+	5 Heart-Piercer Bow
+	5 Frontier Bivouac
+	5 Mystic Monastery
+	5 Nomad Outpost
+	5 Opulent Palace
+	5 Sandsteppe Citadel
+	5 Tomb of the Spirit Dragon
+[common(10)]
+	5 Firehoof Cavalry
+	5 Mardu Hateblade
+	5 Ainok Bond-Kin
+	5 Jeskai Student
+	5 Mardu Hordechief
+	5 Alabaster Kirin
+	5 Salt Road Patrol
+	5 Sage-Eye Harrier
+	5 War Behemoth
+	5 Defiant Strike
+	5 Erase
+	5 Feat of Resistance
+	5 Kill Shot
+	5 Rush of Battle
+	5 Siegecraft
+	5 Smite the Monstrous
+	5 Wetland Sambar
+	5 Jeskai Windscout
+	5 Scaldkin
+	5 Embodiment of Spring
+	5 Mystic of the Hidden Way
+	5 Whirlwind Adept
+	5 Monastery Flock
+	5 Glacial Stalker
+	5 Disdainful Stroke
+	5 Force Away
+	5 Singing Bell Strike
+	5 Taigam's Scheming
+	5 Cancel
+	5 Crippling Chill
+	5 Weave Fate
+	5 Treasure Cruise
+	5 Mardu Skullhunter
+	5 Rite of the Serpent
+	5 Disowned Ancestor
+	5 Unyielding Krumar
+	5 Kheru Dreadmaw
+	5 Krumar Bond-Kin
+	5 Sultai Scavenger
+	5 Shambling Attendants
+	5 Sidisi's Pet
+	5 Rotting Mastodon
+	5 Molting Snakeskin
+	5 Debilitating Injury
+	5 Rakshasa's Secret
+	5 Bitter Revelation
+	5 Dutiful Return
+	5 Throttle
+	5 Valley Dasher
+	5 Leaping Master
+	5 Bloodfire Expert
+	5 Mardu Warshrieker
+	5 Summit Prowler
+	5 Canyon Lurkers
+	5 Ainok Tracker
+	5 Bloodfire Mentor
+	5 Shatter
+	5 Tormenting Voice
+	5 Act of Treason
+	5 Barrage of Boulders
+	5 Trumpet Blast
+	5 Bring Low
+	5 Swift Kick
+	5 Arrow Storm
+	5 Kin-Tree Warden
+	5 Highland Game
+	5 Smoke Teller
+	5 Alpine Grizzly
+	5 Longshot Squad
+	5 Hooting Mandrills
+	5 Archers' Parapet
+	5 Sagu Archer
+	5 Tusked Colossodon
+	5 Woolly Loxodon
+	5 Feed the Clan
+	5 Naturalize
+	5 Savage Punch
+	5 Awaken the Bear
+	5 Scout the Borders
+	5 Dragonscale Boon
+	5 Ponyback Brigade
+	5 Efreet Weaponmaster
+	5 Abzan Guide
+	5 Abomination of Gudul
+	5 Snowhorn Rider
+	5 Lens of Clarity
+	5 Abzan Banner
+	5 Jeskai Banner
+	5 Mardu Banner
+	5 Sultai Banner
+	5 Temur Banner
+	5 Bloodfell Caves
+	5 Blossoming Sands
+	5 Dismal Backwater
+	5 Jungle Hollow
+	5 Rugged Highlands
+	5 Scoured Barrens
+	5 Swiftwater Cliffs
+	5 Thornwood Falls
+	5 Tranquil Cove
+	5 Wind-Scarred Crag

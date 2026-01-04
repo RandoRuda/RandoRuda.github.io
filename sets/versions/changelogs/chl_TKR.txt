@@ -1,4 +1,526 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Erase added.
+Wetland Sambar added.
+Jeskai Windscout added.
+Scaldkin added.
+Embodiment of Spring added.
+Mystic of the Hidden Way added.
+Whirlwind Adept added.
+Monastery Flock added.
+Glacial Stalker added.
+Disdainful Stroke added.
+Force Away added.
+Singing Bell Strike added.
+Taigam's Scheming added.
+Cancel added.
+Crippling Chill added.
+Weave Fate added.
+Treasure Cruise added.
+Mardu Skullhunter added.
+Rite of the Serpent added.
+Disowned Ancestor added.
+Unyielding Krumar added.
+Kheru Dreadmaw added.
+Krumar Bond-Kin added.
+Sultai Scavenger added.
+Shambling Attendants added.
+Sidisi's Pet added.
+Rotting Mastodon added.
+Molting Snakeskin added.
+Debilitating Injury added.
+Rakshasa's Secret added.
+Bitter Revelation added.
+Dutiful Return added.
+Throttle added.
+Valley Dasher added.
+Leaping Master added.
+Bloodfire Expert added.
+Mardu Warshrieker added.
+Summit Prowler added.
+Canyon Lurkers added.
+Ainok Tracker added.
+Bloodfire Mentor added.
+Shatter added.
+Tormenting Voice added.
+Act of Treason added.
+Barrage of Boulders added.
+Trumpet Blast added.
+Bring Low added.
+Swift Kick added.
+Arrow Storm added.
+Kin-Tree Warden added.
+Highland Game added.
+Smoke Teller added.
+Alpine Grizzly added.
+Longshot Squad added.
+Hooting Mandrills added.
+Archers' Parapet added.
+Sagu Archer added.
+Tusked Colossodon added.
+Woolly Loxodon added.
+Feed the Clan added.
+Naturalize added.
+Savage Punch added.
+Awaken the Bear added.
+Scout the Borders added.
+Dragonscale Boon added.
+Ponyback Brigade added.
+Efreet Weaponmaster added.
+Abzan Guide added.
+Abomination of Gudul added.
+Snowhorn Rider added.
+Lens of Clarity added.
+Abzan Banner added.
+Jeskai Banner added.
+Mardu Banner added.
+Sultai Banner added.
+Temur Banner added.
+Bloodfell Caves added.
+Blossoming Sands added.
+Dismal Backwater added.
+Jungle Hollow added.
+Rugged Highlands added.
+Scoured Barrens added.
+Swiftwater Cliffs added.
+Thornwood Falls added.
+Tranquil Cove added.
+Wind-Scarred Crag added.
+Jeskai Elder added.
+Mistfire Weaver added.
+Dragon's Eye Savants added.
+Scion of Glaciers added.
+Riverwheel Aerialists added.
+Stubborn Denial added.
+Quiet Contemplation added.
+Blinding Spray added.
+Set Adrift added.
+Waterwhirl added.
+Ruthless Ripper added.
+Gurmag Swiftwing added.
+Kheru Bloodsucker added.
+Swarm of Bloodflies added.
+Mer-Ek Nightblade added.
+Bellowing Saddlebrute added.
+Despise added.
+Dead Drop added.
+Raiders' Spoils added.
+Murderous Cut added.
+Monastery Swiftspear added.
+Horde Ambusher added.
+War-Name Aspirant added.
+Goblinslide added.
+Hordeling Outburst added.
+Mardu Blazebringer added.
+Mardu Heart-Piercer added.
+Arc Lightning added.
+Dragon Grip added.
+Burn Away added.
+Heir of the Wilds added.
+Temur Charger added.
+Tuskguard Captain added.
+Sultai Flayer added.
+Pine Walker added.
+Windstorm added.
+Roar of Challenge added.
+Seek the Horizon added.
+Incremental Growth added.
+Become Immense added.
+Icefeather Aven added.
+Mardu Charm added.
+Chief of the Edge added.
+Chief of the Scale added.
+Highspire Mantis added.
+Bear's Companion added.
+Warden of the Eye added.
+Armament Corps added.
+Sultai Soothsayer added.
+Mardu Roughrider added.
+Kin-Tree Invocation added.
+Secret Plans added.
+Ride Down added.
+Sultai Charm added.
+Temur Charm added.
+Winterflame added.
+Jeskai Charm added.
+Abzan Charm added.
+Death Frenzy added.
+Master the Way added.
+Witness of the Ages added.
+Briber's Purse added.
+Cranial Archive added.
+Heart-Piercer Bow added.
+Frontier Bivouac added.
+Mystic Monastery added.
+Nomad Outpost added.
+Opulent Palace added.
+Sandsteppe Citadel added.
+Tomb of the Spirit Dragon added.
+Kheru Spellsnatcher added.
+Thousand Winds added.
+Icy Blast added.
+Dig Through Time added.
+Bloodsoaked Champion added.
+Grim Haruspex added.
+Necropolis Fiend added.
+Retribution of the Ancients added.
+Jeering Instigator added.
+Dragon-Style Twins added.
+Crater's Claws added.
+Howl of the Horde added.
+Rattleclaw Mystic added.
+Meandering Towershell added.
+Hardened Scales added.
+Trail of Mystery added.
+Rakshasa Deathdealer added.
+Mardu Ascendancy added.
+Abzan Ascendancy added.
+Ankle Shanker added.
+Savage Knuckleblade added.
+Mantis Rider added.
+Rakshasa Vizier added.
+Sage of the Inward Eye added.
+Kheru Lich Lord added.
+Siege Rhino added.
+Butcher of the Horde added.
+Avalanche Tusker added.
+Ivorytusk Fortress added.
+Sagu Mauler added.
+Deflecting Palm added.
+Mindswipe added.
+Sultai Ascendancy added.
+Villainous Wealth added.
+Temur Ascendancy added.
+Trap Essence added.
+Crackling Doom added.
+Jeskai Ascendancy added.
+Utter End added.
+Flying Crane Technique added.
+Duneblast added.
+Altar of the Brood added.
+Ghostfire Blade added.
+Dragon Throne of Tarkir added.
+Bloodstained Mire added.
+Flooded Strand added.
+Polluted Delta added.
+Windswept Heath added.
+Wooded Foothills added.
+Clever Impersonator added.
+Pearl Lake Ancient added.
+Empty the Pits added.
+Ashcloud Phoenix added.
+Sarkhan, the Dragonspeaker added.
+Hooded Hydra added.
+See the Unwritten added.
+Sidisi, Brood Tyrant added.
+Sorin, Solemn Visitor added.
+Anafenza, the Foremost added.
+Narset, Enlightened Master added.
+Zurgo Helmsmasher added.
+Surrak Dragonclaw added.
+Ugin's Nexus added.
+
+CW11 Noncreature removed.
+CU01 Small Creature removed.
+CU02 Small Creature removed.
+CU03 Small Creature removed.
+CU04 SmallWall Creature removed.
+CU05 Medium Creature removed.
+CU06 Medium Creature removed.
+CU07 MediumWall Creature removed.
+CU08 Large Creature removed.
+CU09 Noncreature removed.
+CU10 Noncreature removed.
+CU11 Noncreature removed.
+CU12 Noncreature removed.
+CU13 Noncreature removed.
+CU14 Noncreature removed.
+CU15 Noncreature removed.
+CU16 Noncreature removed.
+CB01 Small Creature removed.
+CB02 Small Creature removed.
+CB03 SmallWall Creature removed.
+CB04 Medium Creature removed.
+CB05 Medium Creature removed.
+CB06 Medium Creature removed.
+CB07 Medium Creature removed.
+CB08 Medium Creature removed.
+CB09 MediumWall Creature removed.
+CB10 LargeWall Creature removed.
+CB11 Noncreature removed.
+CB12 Noncreature removed.
+CB13 Noncreature removed.
+CB14 Noncreature removed.
+CB15 Noncreature removed.
+CB16 Noncreature removed.
+CR01 Small Creature removed.
+CR02 Small Creature removed.
+CR03 Small Creature removed.
+CR04 Medium Creature removed.
+CR05 Medium Creature removed.
+CR06 Medium Creature removed.
+CR07 Medium Creature removed.
+CR08 MediumWall Creature removed.
+CR09 Noncreature removed.
+CR10 Noncreature removed.
+CR11 Noncreature removed.
+CR12 Noncreature removed.
+CR13 Noncreature removed.
+CR14 Noncreature removed.
+CR15 Noncreature removed.
+CR16 Noncreature removed.
+CG01 Small Creature removed.
+CG02 Small Creature removed.
+CG03 Small Creature removed.
+CG04 Medium Creature removed.
+CG05 Medium Creature removed.
+CG06 Medium Creature removed.
+CG07 MediumWall Creature removed.
+CG08 MediumWall Creature removed.
+CG09 Large Creature removed.
+CG10 Large Creature removed.
+CG11 Noncreature removed.
+CG12 Noncreature removed.
+CG13 Noncreature removed.
+CG14 Noncreature removed.
+CG15 Noncreature removed.
+CG16 Noncreature removed.
+CM01 Small Creature removed.
+CM02 Medium Creature removed.
+CM03 Medium Creature removed.
+CM04 Medium Creature removed.
+CM05 Large Creature removed.
+CA01 Noncreature removed.
+CA02 Noncreature removed.
+CA03 Noncreature removed.
+CA04 Noncreature removed.
+CA05 Noncreature removed.
+CA06 Noncreature removed.
+CL01 Noncreature removed.
+CL02 Noncreature removed.
+CL03 Noncreature removed.
+CL06 Noncreature removed.
+CL09 Noncreature removed.
+CL10 Noncreature removed.
+CL12 Noncreature removed.
+CL13 Noncreature removed.
+CL14 Noncreature removed.
+CL15 Noncreature removed.
+UU01 Small Creature removed.
+UU02 Small Creature removed.
+UU Morph Reveal removed.
+UU04 MediumWall Creature removed.
+UU05 Large Creature removed.
+UU06 Noncreature removed.
+UU07 Noncreature removed.
+UU08 Noncreature removed.
+UU09 Noncreature removed.
+UU10 Noncreature removed.
+UB01 Morph Reveal removed.
+UB02 Small Creature removed.
+UB03 Small Creature removed.
+UB04 Small Creature removed.
+UB05 Medium Creature removed.
+UB06 Large Creature removed.
+UB07 Noncreature removed.
+UB08 Noncreature removed.
+UB09 Noncreature removed.
+UB10 Noncreature removed.
+UR01 Small Creature removed.
+UR Morph Reveal removed.
+UR03 Small Creature removed.
+UR04 Small Creature removed.
+UR05 Small Creature removed.
+UR06 Medium Creature removed.
+UR07 Medium Creature removed.
+UR08 Noncreature removed.
+UR09 Noncreature removed.
+UR10 Noncreature removed.
+UG01 Small Creature removed.
+UG Morph Reveal removed.
+UG03 Medium Creature removed.
+UG04 Medium Creature removed.
+UG05 Large Creature removed.
+UG06 Noncreature removed.
+UG07 Noncreature removed.
+UG08 Noncreature removed.
+UG09 Noncreature removed.
+UG10 Noncreature removed.
+UM01 Small Creature removed.
+UM02 Small Creature removed.
+UM03 Medium Creature removed.
+UM04 Medium Creature removed.
+UM05 Medium Creature removed.
+UM06 Medium Creature removed.
+UM07 Medium Creature removed.
+UM08 Medium Creature removed.
+UM09 MediumWall Creature removed.
+UM10 Large Creature removed.
+UM11 Noncreature removed.
+UM12 Noncreature removed.
+UM13 Noncreature removed.
+UM14 Noncreature removed.
+UM15 Noncreature removed.
+UM16 Noncreature removed.
+UM17 Noncreature removed.
+UM18 Noncreature removed.
+UM19 Noncreature removed.
+UM20 Noncreature removed.
+UA01 Medium Creature removed.
+UA02 Noncreature removed.
+UA03 Noncreature removed.
+UA04 Noncreature removed.
+UL01 Noncreature removed.
+UL02 Noncreature removed.
+UL03 Noncreature removed.
+UL04 Noncreature removed.
+UL05 Noncreature removed.
+UL06 Noncreature removed.
+RU01 Medium Creature removed.
+RU02 Large Creature removed.
+RU03 Noncreature removed.
+RU04 Noncreature removed.
+RB01 Small Creature removed.
+RB02 Medium Creature removed.
+RB03 Large Creature removed.
+RB04 Noncreature removed.
+RR01 Small Creature removed.
+RR02 Medium Creature removed.
+RR03 Noncreature removed.
+RR04 Noncreature removed.
+RG01 Small Creature removed.
+RG02 LargeWall Creature removed.
+RG03 Noncreature removed.
+RG04 Noncreature removed.
+RM01 Small Creature removed.
+RM02 Small Creature removed.
+RM03 Small Creature removed.
+RM04 Small Creature removed.
+RM05 Medium Creature removed.
+RM06 Medium Creature removed.
+RM07 Medium Creature removed.
+RM08 Medium Creature removed.
+RM09 Medium Creature removed.
+RM10 Large Creature removed.
+RM11 Large Creature removed.
+RM12 Large Creature removed.
+RM13 Large Creature removed.
+RM14 Large Creature removed.
+RM15 Noncreature removed.
+RM16 Noncreature removed.
+RM17 Noncreature removed.
+RM18 Noncreature removed.
+RM19 Noncreature removed.
+RM20 Noncreature removed.
+RM21 Noncreature removed.
+RM22 Noncreature removed.
+RM23 Noncreature removed.
+RM24 Noncreature removed.
+RM25 Noncreature removed.
+RA01 Noncreature removed.
+RA02 Noncreature removed.
+RA03 Noncreature removed.
+RL01 Noncreature removed.
+RL02 Noncreature removed.
+RL03 Noncreature removed.
+RL04 Noncreature removed.
+RL05 Noncreature removed.
+MU01 removed.
+MU02 removed.
+MB01 removed.
+MR01 removed.
+MR02 removed.
+MG01 removed.
+MG02 removed.
+MM01 removed.
+MM02 removed.
+MM03 removed.
+MM04 removed.
+MM05 removed.
+MM06 removed.
+MA01 removed.
+UM Dragon Abzan removed.
+UM Dragon Jeskai removed.
+UM Dragon Sultai removed.
+UM Dragon Mardu removed.
+UM Dragon Temur removed.
+UM Hybrid WB removed.
+UM Hybrid UR removed.
+UM Hybrid BG removed.
+UM Hybrid RW removed.
+UM Hybrid GU removed.
+
+Firehoof Cavalry
+
+Mardu Hateblade
+
+Ainok Bond-Kin
+
+Jeskai Student
+
+Mardu Hordechief
+
+Alabaster Kirin
+
+Salt Road Patrol
+
+Sage-Eye Harrier
+
+War Behemoth
+
+Defiant Strike
+
+Feat of Resistance
+
+Kill Shot
+
+Rush of Battle
+
+Siegecraft
+
+Smite the Monstrous
+
+Seeker of the Way
+type: Creature — Human Monk => Creature — Human Warrior
+
+Watcher of the Roost
+rules_text: Flying
+Morph—Reveal a white card from your hand. [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i] => Flying
+Morph—Reveal a white card from your hand. [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When this creature is turned face up, you gain 2 life.
+
+Take Up Arms
+
+Timely Hordemate
+
+Dazzling Ramparts
+
+Venerable Lammasu
+type: Creature — Dragon => Creature — Lammasu
+
+Brave the Sands
+
+Suspension Field
+
+Herald of Anafenza
+
+Master of Pearls
+
+High Sentinels of Arashin
+
+End Hostilities
+
+Wingmate Roc
+rules_text: Flying
+[i]Raid[/i] — When this creature enters, if you attacked this turn, create a 3/4 white Bird creature token with flying.
+Whenever this creature attacks, you gain 1 life for each attacking creature. => Flying
+[i]Raid[/i] — When this creature enters, if you attacked this turn, create a 3/4 white Bird creature token with flying.
+Whenever this creature attacks, you gain 1 life for each attacking creature.
+
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
