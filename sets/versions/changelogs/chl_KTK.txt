@@ -1,0 +1,11 @@
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Stormchaser Mage removed.
+
+
+VERSION 1 CHANGELOG
+====================
+
+First version published.
